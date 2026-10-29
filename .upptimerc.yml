@@ -5,10 +5,11 @@ repo: status
 
 sites:
   - name: Ithila app
-    url: https://51-255-198-82.sslip.io/
-    expectedStatusCodes: [200, 302]
+    url: https://51-255-198-82.sslip.io/healthz
+    expectedStatusCodes: [200]
 
 assignees:
   - boripema
+
 
 # No public status page yet (founder choice 29 Oct): no status-website block, so no GitHub Pages site.
