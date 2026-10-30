@@ -1,7 +1,7 @@
 [
   {
     "name": "Ithila app",
-    "url": "https://51-255-198-82.sslip.io/",
+    "url": "https://51-255-198-82.sslip.io/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/51-255-198-82.sslip.io.ico",
     "slug": "ithila-app",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1378,
-    "timeDay": 1378,
-    "timeWeek": 1378,
-    "timeMonth": 1378,
-    "timeYear": 1378,
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {}
   }
 ]
